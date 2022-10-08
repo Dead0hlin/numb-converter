@@ -1,0 +1,3 @@
+﻿  num converter.cpp
+C:\Users\NIK2507\Documents\Мои проекты\num converter\num converter\num converter.cpp(23,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+LINK : fatal error LNK1168: cannot open C:\Users\NIK2507\Documents\Мои проекты\num converter\x64\Debug\num converter.exe for writing
